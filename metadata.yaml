@@ -1,0 +1,35 @@
+_repo: Szindbad-utazasai_62722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krúdy, Gyula
+    aliases:
+    - Krudy, Gyula
+    - Круди, Дюла
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '41227'
+    url: http://www.gutenberg.org/2009/agents/41227
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
+    - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
+description: ''
+gutenberg_issued: '2020-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62722'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Ifju évek -- Szindbád álma -- Duna mentén -- Szindbád és a szinésznő
+  -- Szent Jusztina estéje -- Nagyapám jó táncos volt -- A katona -- Régi kocsikon
+  -- Ferenc császár éjszakája -- A középkori város -- Fru-fru -- Régi kép -- Téli
+  ut -- Pesti farsang -- Régi pesti fametszet.
+title: Szindbád utazásai
+url: http://www.gutenberg.org/ebooks/62722
