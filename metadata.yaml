@@ -1,5 +1,8 @@
 _repo: Szindbad-utazasai_62722
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krúdy, Gyula
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
     - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62722#Szindbad-utazasai
 gutenberg_issued: '2020-07-21'
 gutenberg_type: Text
 identifiers:
